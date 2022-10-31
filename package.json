@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-07_58",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrocodileGenna/goit-js-hw-07_58.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrocodileGenna/goit-js-hw-07_58/issues"
+  },
+  "homepage": "https://github.com/CrocodileGenna/goit-js-hw-07_58#readme",
+  "dependencies": {
+    "basiclightbox": "^5.0.4",
+    "simplelightbox": "^2.10.4"
+  }
+}
